@@ -1,0 +1,2 @@
+<!-- This is a placeholder. Replace this file with your actual rain.mp3 audio file -->
+<!-- The audio player will show an error until you add a real rain.mp3 file here -->
